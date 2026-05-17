@@ -132,3 +132,9 @@ button:last-child:hover {
   background: #b91c1c;
 }
 
+.creator-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  margin-top: 30px;
+}
