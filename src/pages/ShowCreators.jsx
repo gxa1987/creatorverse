@@ -30,7 +30,7 @@ function ShowCreators() {
       <h1>Creatorverse</h1>
       <p>My favorite content creators.</p>
 
-      <Link to="/add">Add New Creator</Link>
+      <Link to="/add" className="add-button">Add New Creator</Link>
 
       <div className="creator-grid">
         {creators.length > 0 ? (
