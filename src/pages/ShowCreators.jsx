@@ -32,7 +32,7 @@ function ShowCreators() {
 
       <Link to="/add">Add New Creator</Link>
 
-      <div>
+      <div >
         {creators.length > 0 ? (
           creators.map((creator) => (
             <CreatorCard key={creator.id} creator={creator} />
