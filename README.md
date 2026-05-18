@@ -44,7 +44,7 @@ GIF created with ...  👉🏿 GIF tool here
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
+
 
 ## Notes
 
